@@ -1,0 +1,11 @@
+Quiz question ideas
+// age preferences, location preferences, interest preferences 
+        // Will these be rigid or just for a more initial personalised app experience? 
+        // People can choose to skip this feature 
+Frontend app quiz component features, options for user to choose from, include a 'I don't mind answer' 
+// "Do you have an age preference?" Yes -> Give age brackets or option to fill out ages themselves "No, I don't mind" -> take to next question 
+API endpoint = backend server to receive quiz responses from the frontend which will store the user's responses in the database.
+Implement logic
+// Personalised recommendations based on above upon finishing if quiz app not skipped 
+Display results 
+// Either personalised or extremely open where they can then narrow down the searches
